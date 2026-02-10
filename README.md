@@ -11,8 +11,7 @@ I will become an intrapreneur 🚀
 
 ## Skills
 - Programming fundamentals 🖥️  
-- Problem-solving 🔍  
-- Data structures & algorithms 📊  
+- Problem-solving 🔍   
 - Logical thinking 🧠
 
 ## Goals
