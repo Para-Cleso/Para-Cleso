@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Hi, I'm ParaCleso 👋</b>
+  #<b>Hi, I'm ParaCleso 👋</b>
 </p>
 
 I am a 2nd-year Computer Science student 🎓  
