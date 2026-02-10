@@ -19,4 +19,6 @@ I will become an intrapreneur 🚀
 - Learn continuously 📚
 - To have a positive impact on the world 🌍
   
-> *"Perception is reality."*
+<p align="center" style="font-size:20px;">
+<em>"Perception is reality."</em>
+</p>
