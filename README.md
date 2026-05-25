@@ -1,24 +1,21 @@
-<h1 align="center">Hi, I'm ParaCleso 👋</h1>
+# Hey, I'm ParaCleso 👋
 
-I am a 2nd-year Computer Science student 🎓  
-I write code, break it, and learn 💻
+🎓 CS student  
+💻 Still learning  
+🔧 Breaking code since day one
 
-Perseverance is my strength 🔁  
-Desperation is my weakness, so I learn when to stop 🛑  
-My fear is not knowing what I did wrong 🤔
+I like figuring out how things work and learning from mistakes along the way.
 
-I will become an intrapreneur 🚀
-
-## Skills
-- Programming fundamentals 🖥️  
-- Problem-solving 🔍   
-- Logical thinking 🧠
+Currently improving my skills in:
+- Programming
+- Problem-solving
+- Logical thinking
+- Debugging things I accidentally broke
 
 ## Goals
-- Build meaningful software solutions 💡  
-- Learn continuously 📚
-- To have a positive impact on the world 🌍
-  
-<p align="center" style="font-size:20px;">
-<em>"Perception is reality."</em>
-</p>
+- Build meaningful software
+- Keep learning consistently
+- Turn ideas into actual projects
+- Make an impact someday
+
+> “Perception is reality.”
